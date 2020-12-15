@@ -1,0 +1,11 @@
+{
+    "name": "lucas-ribeiro7/composer",
+    "description": "Conhecendo o Composer",
+    "authors": [
+        {
+            "name": "Lucas Ribeiro",
+            "email": "caetanolucasribeiro@gmail.com"
+        }
+    ],
+    "require": {}
+}
